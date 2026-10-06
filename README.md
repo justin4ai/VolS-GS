@@ -8,11 +8,10 @@
 <br/>
 <sub>† Corresponding author</sub>
 <br/><br/>
-<br/>
 
-<a href="https://arxiv.org/abs/2610.04007"><img src="https://img.shields.io/badge/arXiv-2610.04007-b31b1b.svg?style=flat-square" alt="arXiv"/></a>
-<a href="https://justin4ai.github.io/VolS-GS/"><img src="https://img.shields.io/badge/Project-Page-DAA520?style=flat-square" alt="Project Page"/></a>
-<a href="https://youtu.be/pBBVwziFHc4"><img src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square" alt="Video"/></a>
+[![arXiv](https://img.shields.io/badge/arXiv-2610.04007-b31b1b.svg)](https://arxiv.org/abs/2610.04007)
+[![Page](https://img.shields.io/badge/Project-Homepage-blue.svg)](https://justin4ai.github.io/VolS-GS/)
+[![Video](https://img.shields.io/badge/Video-YouTube-red.svg)](https://youtu.be/pBBVwziFHc4)
 
 ![static/teaser.jpg](static/teaser.jpg)
 
